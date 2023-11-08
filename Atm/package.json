@@ -1,0 +1,22 @@
+{
+  "name": "@ghufranshaikh/atm2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+   "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.9"
+  },
+  "dependencies": {
+    "@fainnovations/calculator": "^1.0.0",
+    "inquirer": "^9.2.10"
+  }
+}
